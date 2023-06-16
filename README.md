@@ -21,5 +21,15 @@ SASS
 # Cloning repository 
 $ git clone https://github.com/Romarico23/chat-application/
 
+#   "dependencies": 
+    "firebase": "^9.22.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.13.0",
+    "sass": "^1.63.4",
+    "uuid": "^9.0.0"
+  },
+
 # License 
 Distributed under the @Romarico23 License. 
