@@ -13,3 +13,10 @@ Here is a working live demo : https://romarico23.github.io/chat-application/#/re
 ![register](https://github.com/Romarico23/chat-application/assets/108353329/54a4b0cb-1683-4bd0-af24-77998f52a9b0)
 
 
+# Built with
+React JS 
+Firebase
+SASS
+
+# License 
+Distributed under the @Romarico23 License. 
