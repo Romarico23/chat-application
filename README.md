@@ -21,7 +21,7 @@ SASS
 # Cloning repository 
 $ git clone https://github.com/Romarico23/chat-application/
 
-# dependencies
+# Dependencies
     "firebase": "^9.22.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
