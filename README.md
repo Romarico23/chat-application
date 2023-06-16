@@ -18,5 +18,8 @@ React JS
 Firebase
 SASS
 
+# Cloning repository 
+$ git clone https://github.com/Romarico23/chat-application/
+
 # License 
 Distributed under the @Romarico23 License. 
