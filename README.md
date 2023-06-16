@@ -14,9 +14,9 @@ Here is a working live demo : https://romarico23.github.io/chat-application/#/re
 
 
 # Built with
-React JS 
-Firebase
-SASS
+### React JS 
+### Firebase
+### SASS
 
 # Cloning repository 
 $ git clone https://github.com/Romarico23/chat-application/
